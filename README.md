@@ -2,14 +2,11 @@
     <img height="150em" src="image.png" />  
 </div> -->
 
-### Derkai是大聪明
+### Derbai是大聪明
 ---
-* 🏢 Derkai 目前在做农业机器人，欢迎与同行小伙伴交流
-* 🔧 Derkai 不止能干视觉，机械和电控也略懂一点
-* ⚙️ Derkai 的主力编程语言：C++、Python
-* 🌱 Derkai 正在学习：摆烂
-* 🔭 Derkai 感兴趣的方向：算法集成缝合怪
-* 🤔 我讨厌甜品! 这是我的  [B站个人主页](https://b23.tv/0iJ0wXP) ，我会不定期分享我的动态~
+* 🏢 Derbai 目前在学习嵌入式
+* 🌱 Derbai 正在学习：来！上强度！
+* 🤔 我喜欢甜品!
 
 
 <!-- 信息统计 -->
